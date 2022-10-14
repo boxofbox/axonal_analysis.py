@@ -1,8 +1,8 @@
 # axonal_analysis.py
 used for analyzing a folder of rgb .tif images for various parameters related to axonal segments of peripheral nerve
 
-code originally built for:
-Mokarram N, Dymanus K, Srinivasan A, Lyon JG, Tipton J, Chu J, English AW, Bellamkonda RV. Immunoengineering nerve repair. Proc Natl Acad Sci U S A. 2017 Jun 27;114(26):E5077-E5084. doi: 10.1073/pnas.1705757114. Epub 2017 Jun 13. PMID: 28611218; PMCID: PMC5495274.
+
+[Mokarram N, Dymanus K, Srinivasan A, Lyon JG, Tipton J, Chu J, English AW, Bellamkonda RV. Immunoengineering nerve repair. Proc Natl Acad Sci U S A. 2017 Jun 27;114(26):E5077-E5084. doi: 10.1073/pnas.1705757114. Epub 2017 Jun 13. PMID: 28611218](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5495274/)
 
 The images will be interpreted thusly: 
     GREEN: axons 
